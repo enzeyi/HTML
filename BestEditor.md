@@ -8,11 +8,15 @@ When learning HTML, however, a simple text editor like Notepad (PC) and TextEdit
 
 ## Step 1: Open Notepad
 
-Open the start screen (The Windows symbol at the bottom left of your screen). Type **Notepad**.
+Open the start screen (The Windows symbol at the bottom left of your screen). 
 
 ![Start Screen](./Images/StartScreen.png)
 
+Type **Notepad**.
+
 ![Notepad Search](./Images/NotePadSearch.png)
+
+Open the notepad
 
 ![Notepad Open](./Images/NotePadOpen.png)
 
@@ -28,6 +32,9 @@ Write or copy the following HTML code into Notepad:
 </body>
 </html>
 ```
+
+Here is how writing the HTML on notepad would be looking like
+![](./Images/HTMLonNotepad.png)
 
 ## Step 3: Save the HTML Page
 
