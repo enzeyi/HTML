@@ -51,5 +51,4 @@ The browser does not display the HTML tags but uses them to determine how to dis
 The content inside the `<body>` section will be displayed in a browser. The content inside the `<title>` element will be shown in the browser's title bar or in the page's tab.
 
 ![Github Logo](./Images/VisualizingHTMLPage.png)
-Format: ![Alt Text](url)
 ```
