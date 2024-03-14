@@ -1,6 +1,3 @@
-Here's the corrected version of your README with markup errors fixed:
-
-```markdown
 # INTRODUCTION TO HTML
 
 ## What is HTML
